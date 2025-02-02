@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Posture_Corrector
 =======
 # 🧍‍♂️ Posture Corrector - Posture and Drowsiness Detection
