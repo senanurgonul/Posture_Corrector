@@ -70,8 +70,3 @@ python posture_detection.py
 ### 5️⃣ **Exit the application**
 Press 'q' to quit the application.
 
-
-
-
-
->>>>>>> 556289f (Initial commit)
